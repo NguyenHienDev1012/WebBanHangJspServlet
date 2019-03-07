@@ -1,0 +1,57 @@
+
+body{
+	background-color: #fff;
+
+}
+.header{
+	background-color:#f2f2f2;
+}
+.topnav{
+	padding: 5px;
+}
+.logo{
+	font-size: 24px;
+	color: orange;
+}
+
+.cart{
+	font-size:15px;
+}
+.menu ul li {
+	list-style: none;
+	float: left;
+	padding: 14px 16px;
+	border-radius: 5px;
+	font-size: 15px;
+}
+.menu ul{
+	padding-left: 410px;
+}
+.slide{
+	margin-top: 10px;
+}
+.content{
+	margin-top: 2px;
+	padding-left: 20px;
+}
+.content-left{
+	padding-left: 30px;
+	background-color:#f2f2f2;
+}
+.content-right{
+	background-color: #f2f2f2;
+}
+.detail{
+background-color: #f2f2f2;
+}
+
+.footer{
+	margin-left: 5px;
+	height: 240px;
+	background-color: #444;
+	padding-left: 320px;
+	padding-right:-15px;
+
+
+}
+
